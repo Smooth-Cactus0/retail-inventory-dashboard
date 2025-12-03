@@ -1,0 +1,15 @@
+supplier_id,supplier_name,country,reliability_score,avg_lead_time,defect_rate
+SUP001,Supplier 1 Inc.,South Korea,95.6,26,3.73
+SUP002,Supplier 2 Inc.,USA,84.1,33,4.15
+SUP003,Supplier 3 Inc.,USA,96.5,49,0.15
+SUP004,Supplier 4 Inc.,South Korea,77.2,20,4.79
+SUP005,Supplier 5 Inc.,China,86.6,29,2.3
+SUP006,Supplier 6 Inc.,USA,82.9,34,3.79
+SUP007,Supplier 7 Inc.,Germany,94.0,58,4.66
+SUP008,Supplier 8 Inc.,South Korea,98.9,18,3.71
+SUP009,Supplier 9 Inc.,China,91.9,25,3.47
+SUP010,Supplier 10 Inc.,Japan,95.8,51,0.51
+SUP011,Supplier 11 Inc.,Germany,76.7,40,3.56
+SUP012,Supplier 12 Inc.,USA,77.0,32,2.95
+SUP013,Supplier 13 Inc.,Japan,96.1,30,4.74
+SUP014,Supplier 14 Inc.,South Korea,93.1,19,3.57

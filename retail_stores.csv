@@ -1,0 +1,9 @@
+store_id,store_name,city,state,region,store_type,size_sqft,opening_date
+ST001,Downtown Flagship,Seattle,WA,Northwest,Flagship,15000,2018-03-15
+ST002,West Side Mall,Portland,OR,Northwest,Standard,8000,2019-06-01
+ST003,Airport Plaza,San Francisco,CA,West,Airport,5000,2020-01-10
+ST004,Suburban Center,Los Angeles,CA,West,Standard,10000,2017-09-20
+ST005,Harbor View,San Diego,CA,West,Standard,9000,2019-11-15
+ST006,Tech District,Austin,TX,South,Standard,8500,2020-05-01
+ST007,University Square,Denver,CO,Mountain,Standard,7000,2018-08-10
+ST008,Riverside Outlet,Phoenix,AZ,Southwest,Outlet,12000,2021-02-01

@@ -1,0 +1,52 @@
+sku,department,category,product_name,supplier_id,cost,retail_price,reorder_point,reorder_quantity,lead_time_days,shelf_life_days,weight_kg,is_seasonal
+SKU01000,Electronics,Computers,Computers Item 1,SUP008,641.3,974.86,30,94,17,730.0,8.68,True
+SKU01001,Electronics,Computers,Computers Item 2,SUP008,527.69,721.72,39,57,8,730.0,24.81,False
+SKU01002,Electronics,Computers,Computers Item 3,SUP009,497.09,650.43,36,78,34,730.0,9.48,False
+SKU01003,Electronics,Computers,Computers Item 4,SUP007,632.44,973.71,12,70,13,,11.54,True
+SKU01004,Electronics,Computers,Computers Item 5,SUP010,754.92,1491.68,18,72,8,730.0,6.41,False
+SKU01005,Electronics,Mobile Devices,Mobile Devices Item 1,SUP001,669.89,1010.22,45,69,10,180.0,10.92,True
+SKU01006,Electronics,Mobile Devices,Mobile Devices Item 2,SUP002,462.81,619.04,35,63,40,180.0,22.42,False
+SKU01007,Electronics,Mobile Devices,Mobile Devices Item 3,SUP007,739.06,1039.26,49,99,24,365.0,20.8,False
+SKU01008,Electronics,Audio,Audio Item 1,SUP001,129.92,293.96,34,90,15,730.0,10.17,True
+SKU01009,Electronics,Audio,Audio Item 2,SUP008,30.98,47.67,44,54,39,365.0,2.31,False
+SKU01010,Electronics,Audio,Audio Item 3,SUP008,110.38,257.81,21,53,39,730.0,9.59,False
+SKU01011,Electronics,Smart Home,Smart Home Item 1,SUP011,589.09,1216.52,44,84,41,,24.31,False
+SKU01012,Electronics,Smart Home,Smart Home Item 2,SUP014,582.95,922.91,48,46,15,365.0,10.97,True
+SKU01013,Electronics,Smart Home,Smart Home Item 3,SUP007,104.16,139.33,41,23,36,,6.61,False
+SKU01014,Appliances,Kitchen,Kitchen Item 1,SUP007,178.39,433.74,31,47,8,180.0,20.3,False
+SKU01015,Appliances,Kitchen,Kitchen Item 2,SUP012,699.74,1584.49,29,49,17,730.0,20.28,False
+SKU01016,Appliances,Kitchen,Kitchen Item 3,SUP009,268.04,383.85,36,81,19,,7.97,True
+SKU01017,Appliances,Kitchen,Kitchen Item 4,SUP001,436.59,821.57,33,98,38,730.0,14.17,False
+SKU01018,Appliances,Kitchen,Kitchen Item 5,SUP012,70.62,113.32,48,21,9,,4.13,False
+SKU01019,Appliances,Laundry,Laundry Item 1,SUP006,495.46,942.97,32,20,25,180.0,4.05,False
+SKU01020,Appliances,Laundry,Laundry Item 2,SUP004,788.81,1254.57,20,75,23,365.0,20.18,False
+SKU01021,Appliances,Laundry,Laundry Item 3,SUP001,787.07,1399.87,18,78,12,730.0,1.5,False
+SKU01022,Appliances,Laundry,Laundry Item 4,SUP003,548.5,723.97,28,39,38,365.0,4.77,False
+SKU01023,Appliances,Laundry,Laundry Item 5,SUP001,321.65,779.71,20,76,31,180.0,23.15,False
+SKU01024,Appliances,Climate Control,Climate Control Item 1,SUP009,198.27,299.38,11,20,18,,22.56,False
+SKU01025,Appliances,Climate Control,Climate Control Item 2,SUP003,284.44,488.97,29,43,39,730.0,21.35,False
+SKU01026,Appliances,Climate Control,Climate Control Item 3,SUP014,632.57,1330.15,44,44,35,180.0,4.44,False
+SKU01027,Appliances,Climate Control,Climate Control Item 4,SUP009,559.68,1165.45,45,52,10,,12.6,True
+SKU01028,Appliances,Climate Control,Climate Control Item 5,SUP003,305.85,670.72,26,52,18,365.0,9.51,True
+SKU01029,Home & Living,Furniture,Furniture Item 1,SUP003,480.1,1188.09,17,46,33,180.0,9.08,False
+SKU01030,Home & Living,Furniture,Furniture Item 2,SUP012,541.76,1266.1,28,23,41,730.0,16.31,True
+SKU01031,Home & Living,Furniture,Furniture Item 3,SUP005,753.56,1842.23,15,56,30,,10.99,False
+SKU01032,Home & Living,Furniture,Furniture Item 4,SUP013,771.62,1792.95,30,51,29,,8.26,True
+SKU01033,Home & Living,Bedding,Bedding Item 1,SUP003,327.86,758.36,49,65,30,180.0,15.57,False
+SKU01034,Home & Living,Bedding,Bedding Item 2,SUP002,129.27,248.45,35,36,39,,17.71,False
+SKU01035,Home & Living,Bedding,Bedding Item 3,SUP003,249.0,565.54,34,43,19,730.0,13.03,False
+SKU01036,Home & Living,Decor,Decor Item 1,SUP014,171.53,237.6,25,33,18,365.0,8.78,False
+SKU01037,Home & Living,Decor,Decor Item 2,SUP006,93.31,186.05,34,77,28,180.0,21.58,True
+SKU01038,Home & Living,Decor,Decor Item 3,SUP011,50.29,83.68,46,27,11,365.0,2.59,True
+SKU01039,Outdoor,Garden,Garden Item 1,SUP004,441.7,912.06,25,32,36,365.0,19.98,True
+SKU01040,Outdoor,Garden,Garden Item 2,SUP005,362.4,505.24,35,81,29,365.0,17.55,False
+SKU01041,Outdoor,Garden,Garden Item 3,SUP002,155.17,230.85,41,67,31,730.0,23.4,False
+SKU01042,Outdoor,Garden,Garden Item 4,SUP005,423.02,883.5,31,86,18,180.0,9.22,False
+SKU01043,Outdoor,Patio,Patio Item 1,SUP001,286.67,404.24,39,81,11,730.0,0.92,False
+SKU01044,Outdoor,Patio,Patio Item 2,SUP014,649.39,1114.07,39,42,16,180.0,16.06,True
+SKU01045,Outdoor,Patio,Patio Item 3,SUP010,312.2,640.33,41,20,11,,4.49,True
+SKU01046,Outdoor,BBQ & Grills,BBQ & Grills Item 1,SUP011,756.52,1770.73,29,43,18,180.0,14.55,True
+SKU01047,Outdoor,BBQ & Grills,BBQ & Grills Item 2,SUP012,652.74,1491.36,12,84,39,730.0,22.68,True
+SKU01048,Outdoor,BBQ & Grills,BBQ & Grills Item 3,SUP002,74.1,105.29,44,27,35,180.0,17.2,False
+SKU01049,Outdoor,BBQ & Grills,BBQ & Grills Item 4,SUP010,223.34,423.29,20,48,42,,20.19,True
+SKU01050,Outdoor,BBQ & Grills,BBQ & Grills Item 5,SUP003,158.4,348.6,44,55,24,,19.52,False
