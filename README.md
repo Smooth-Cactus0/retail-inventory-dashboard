@@ -117,10 +117,10 @@ This dashboard demonstrates:
 
 **[Alexy Louis]**
 - Email: alexy.louis.scholar@gmail.com
-- LinkedIn: [Your LinkedIn]
-- Portfolio: [Your Website]
+- LinkedIn: [https://www.linkedin.com/in/alexy-louis-19a5a9262/]
+- Portfolio: see https://github.com/Smooth-Cactus0
 
-## 📜 License
+## License
 
 MIT License - Free to use for your projects!
 ```
