@@ -59,7 +59,7 @@ st.markdown("""
             <span>✦ Supplier Management</span>
         </div>
         <div class="header-footer">
-            Built by [Your Name] | Retail Analytics Specialist | Available for Consulting
+            Built by [Alexy Louis] | Data Analyst & Developer | alexy.louis.scholar@gmail.com | Available for Dashboards and Analytics Projects
         </div>
     </div>
     """, unsafe_allow_html=True)
